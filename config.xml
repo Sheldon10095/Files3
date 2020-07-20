@@ -2,8 +2,8 @@
 <config>
     <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/702973740295651388/what.png</PanelTexture_URL>
     <FestTheme>Tiz VS Azzie</FestTheme>
-    <TeamA_Name>Team A</TeamA_Name>
-    <TeamB_Name>Team B</TeamB_Name>
-    <AppVersion>1</AppVersion>
-    <DownloadURL>https://cdn.discordapp.com/attachments/709836888936153268/734554752339279912/SplatfestDL_Cemu.exe</DownloadURL>
+    <TeamA_Name>Tiz</TeamA_Name>
+    <TeamB_Name>Azzie</TeamB_Name>
+    <AppVersion>2</AppVersion>
+    <DownloadURL>https://cdn.discordapp.com/attachments/709836888936153268/734629107165298769/SplatfestDL_Cemu.exe</DownloadURL>
 </config>
