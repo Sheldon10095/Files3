@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config>
     <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/702973740295651388/what.png</PanelTexture_URL>
-    <FestTheme>Placeholder Theme</FestTheme>
+    <FestTheme>Tiz VS Azzie</FestTheme>
     <TeamA_Name>Team A</TeamA_Name>
     <TeamB_Name>Team B</TeamB_Name>
     <AppVersion>1</AppVersion>
