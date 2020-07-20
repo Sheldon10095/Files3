@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
-    <PanelTexture_URL>https://files.oatmealdome.me/bcat/images/unknown.PNG</PanelTexture_URL>
-    <FestTheme>None</FestTheme>
-    <TeamA_Name>Tiz</TeamA_Name>
-    <TeamB_Name>Azzie</TeamB_Name>
+    <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/734864115763249202/BlankFest.png</PanelTexture_URL>
+    <FestTheme>To be revealed...</FestTheme>
+    <TeamA_Name>???</TeamA_Name>
+    <TeamB_Name>???</TeamB_Name>
     <AppVersion>5</AppVersion>
     <DownloadURL>https://cdn.discordapp.com/attachments/709836888936153268/734859315055296552/SplatfestDL_Cemu.exe</DownloadURL>
 </config>
