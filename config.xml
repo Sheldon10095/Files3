@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
-    <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/737696745873604645/rosalina_vs._peach.png</PanelTexture_URL>
-    <FestTheme>Peach VS Rosalina</FestTheme>
-    <TeamA_Name>Peach</TeamA_Name>
-    <TeamB_Name>Rosalina</TeamB_Name>
+    <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/749342823974699049/lemonvmilk.png</PanelTexture_URL>
+    <FestTheme>Lemon Tea VS Milk Tea</FestTheme>
+    <TeamA_Name>Lemon Tea</TeamA_Name>
+    <TeamB_Name>Milk Tea</TeamB_Name>
     <AppVersion>7</AppVersion>
     <DownloadURL>https://cdn.discordapp.com/attachments/709836888936153268/737140913855529070/SplatfestDL_Cemu.exe</DownloadURL>
 </config>
