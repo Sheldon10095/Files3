@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <config>
     <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/756208370427625573/amongusfest.png</PanelTexture_URL>
-    <FestTheme>Crewmate Vs Impostor</FestTheme>
+    <FestTheme>Crewmate - Impostor</FestTheme>
     <TeamA_Name>Crewmate</TeamA_Name>
     <TeamB_Name>Impostor</TeamB_Name>
     <AppVersion>9</AppVersion>
