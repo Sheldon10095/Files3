@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
-    <PanelTexture_URL>https://media.discordapp.net/attachments/597725281276395531/775478802972147763/fst43t.png</PanelTexture_URL>
-    <FestTheme>Smart VS Popular</FestTheme>
-    <TeamA_Name>Smart</TeamA_Name>
-    <TeamB_Name>Popular</TeamB_Name>
+    <PanelTexture_URL>https://images-ext-2.discordapp.net/external/wCxGmsMFMZSLw-nosAjE4IuHugKslACdP5GAIo0txYo/https/media.discordapp.net/attachments/785532341158281276/785579966409998336/reindeers_vs._snowmen.png</PanelTexture_URL>
+    <FestTheme>Reindeer VS Snowmen</FestTheme>
+    <TeamA_Name>Reindeer</TeamA_Name>
+    <TeamB_Name>Snowmen</TeamB_Name>
     <AppVersion>10</AppVersion>
     <DownloadURL>https://cdn.discordapp.com/attachments/709836888936153268/757625169941626941/SplatfestDL_Cemu.exe</DownloadURL>
 </config>
