@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
-    <PanelTexture_URL>https://images-ext-1.discordapp.net/external/8qFHdboGwbMwTQImcYK1sKhCol1neSTd94DX51Lj-F4/https/media.discordapp.net/attachments/767872229887180810/831284713586294845/paper.png</PanelTexture_URL>
-    <FestTheme>Back Roll vs. Front Roll</FestTheme>
-    <TeamA_Name>Back Roll</TeamA_Name>
-    <TeamB_Name>Front Roll</TeamB_Name>
+    <PanelTexture_URL>https://images-ext-1.discordapp.net/external/Gu80Ya2ZlREdXS18oAZIuOn6fn-t6E2vju4jfxq4Juw/https/media.discordapp.net/attachments/597723238960857098/973257182428663858/Round2.png</PanelTexture_URL>
+    <FestTheme>Lo-Fi vs. Electronic</FestTheme>
+    <TeamA_Name>Lo-Fi</TeamA_Name>
+    <TeamB_Name>Electronic</TeamB_Name>
     <AppVersion>10</AppVersion>
     <DownloadURL>https://cdn.discordapp.com/attachments/709836888936153268/757625169941626941/SplatfestDL_Cemu.exe</DownloadURL>
 </config>
